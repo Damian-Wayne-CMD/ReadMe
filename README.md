@@ -1,17 +1,16 @@
-# For Recruiters & Hiring Managers
+# For Those Who Want to Work With Me
 
 Please take the time to read this as I took the time to write it. If you reach out in any way shape or form and show me you have not read this, I'll assume you don't give a fuck and just block and go on about my day. Life is too short to be the only one to put in the effort. 
 
 ## What I can do
 - **Marketing.** 10 years of experience across both agency and brand-side marketing, spanning strategy, execution, analytics, attribution, and budget ownership. [See my marketing portfolio.](https://fractionalgrowth.wordpress.com/) *Note* While, this is my primary field of expertise, I view my future work under this umbrella as consultative and executionary in nature as I am fully capable of building near self-sustaining marketing programs and no longer wish to get paid handsomely (barely) to debate strategy with those who "think" they know better...
-- **Cloud & Data.** Continuing familiarity with AWS, Azure, and GCP, including cloud networking concepts, marketing attribution architecture, data-flow design, and interpreting data in context. Experienced in connecting technical implementation to measurable business outcomes.
+- **Cloud & Architecture.** Continuing familiarity with AWS, Azure, and GCP, including cloud networking concepts, marketing attribution architecture, data-flow design, and interpreting data in context. Experienced in connecting technical implementation to measurable business outcomes. 
 - **Product & Project Management.** I approach products as a customer advocate, researcher, strategist, and business partner. I can translate customer needs into product strategy, align execution with business objectives, manage complex initiatives, and measure outcomes. If you see product experience as separate from marketing, we're not going to agree on how good products get built and I would question whether or not you paid any attention in business school because I sure damn did. 
-- **Data Science & ML.** Experience in marketing analytics and data science, with hands-on Python development and a keen interest in machine learning research. I built and continue to build LLM-powered tools and enjoy understanding how models work, evaluating their applications, and translating technical possibilities into practical solutions.
 - **Cybersecurity**. Building hands-on experience in security research and AI-assisted vulnerability analysis. I built an AI Security Scanner in Python using Gemini to investigate potential vulnerabilities in Python source code. My interests include threat intelligence, application security, security analytics, IAM, AI security, and risk and compliance.
-- **Privacy & compliance**. (MORE THAN) familiar with GDPR, CCPA, Quebec Law 25, and general marketing compliance (marketing data), with an interest in applying that experience to security governance, privacy risk, and responsible AI. I understand that compliance is not just documentation; it needs to translate into practical controls, authority, and decisions.
+- **Privacy & compliance**. (MORE THAN) familiar with GDPR, CCPA, Quebec Law 25, and general marketing compliance (marketing data), with an interest in applying that experience to security governance, privacy risk, and responsible AI. I understand '/Users/brb/Documents/Coding Projects/ReadMe'
+that compliance is not just documentation; it needs to translate into practical controls, authority, and decisions.
 
 
----
 ## Who I want to work for (in order of desierability)
 - Small to medium cybersecurity firms who actually hire, train & allow talent to actually work.
 - Marijuana justice and product (becuase black people are too often left out of the corporate side).
@@ -23,7 +22,6 @@ Please take the time to read this as I took the time to write it. If you reach o
 - Literally adult entertainment, (responsible) gambling, or alcohol (which I have direct experience with) before the next section...
 
 
----
 ## Who I won't ever bother "working" for again (directly or client wise)
 - Insurance companies
 - Private equity hospitals
@@ -43,7 +41,6 @@ Please take the time to read this as I took the time to write it. If you reach o
 - The government becuase it is literally corrupt and currently overtly racist & hostile to anyone not white and in the cult
 
 
----
 ## My conditions
 - **Remote**. I do not care whatsoever how bad whoever is "in charge" wants people in your little office. You are NOT paying enough to deal with any potential racism or even to economically make it feasable to come in. An annual meeting or mission critical meeting aside, I don't have it in me to get tone policed in person, have my worth and competency continually questioned in person and have to engage in corporate theater in person or to water down myself in person to show I'm palatable enough to work with and be taken seriously. If you read this and believe that you can truly offer the opposite of this, please don't hesitate to reach out, just keep the obvious in mind, do you even get paid enough to come in the office yourself? 
 - **Pay Information Upfront.** This is business school 101. If you do not **at least** have a value attatched to the work you need done either in a freelance or full-time capacity, I can correctly assume that you in no way can properly scope and I'm not helping you scope for free. 
@@ -51,7 +48,6 @@ Please take the time to read this as I took the time to write it. If you reach o
 - **Clear Evaluation Criteria** If you are incapable of emailing over a clear description of what your hiring process is and/or what success looks like to you (outside of just saying more money) please save us both the time. I will not "hop on the phone" just to discover you're full of complete and utter bullshit. Also networking is dead. 
 - **No Case Studies or Tests** 
 
----
 ## My fast facts
 - U.S. Citizen
 - No, I do not or ever will need sponsorship for US based positions.
