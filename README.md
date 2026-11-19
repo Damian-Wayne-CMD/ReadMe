@@ -53,6 +53,6 @@ Please take the time to read this as I took the time to write it. If you reach o
 - Not a white male, hence my obvious intolerance to racism. 
 - No, I will no longer entertain the idea of relocating just to get laid off later. Hence why I only want remote. 
 - Will travel up to 75% with my personal no reimbursement rule. You pay upfront every single time.
-- I hold a Bachelor of Science, a Master of Science and 2 univerisity certificates. Hence my non-existant tolerance for the bullshit job market, hiring practices, and business practices that linkedin lunatics continue to perpetuate.
+- I hold a Master of Science... Hence my non-existant tolerance for the bullshit job market, hiring practices, and business practices that linkedin lunatics continue to perpetuate.
 - Yes I have a resume for formality purposes. I will not furnish unless you need it to finalize hiring me. If you're here, you have what you need. 
 - 1099 Contract Preferred. Full-time considered. No W2 contracts.
